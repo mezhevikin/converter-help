@@ -100,7 +100,7 @@ Our server, in turn, gets the data from 20 sources and calculates the middle mar
 
 For example, if sources show these exchange rates for `USD-EUR`, then the middle market rate will be `0.919`.
 
-Sources
+**Sources**
 
 - 💳 Visa
 
