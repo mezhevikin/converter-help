@@ -7,8 +7,8 @@ Download:
 
 ### 📺 Advertising
 
-1.  [How to disable ads? [ios]](#disable-ads-ios)
-2.  [How to disable ads? [android]](#disable-ads-android)
+1.  [How to disable ads?](#disable-ads-ios) [ios]
+2.  [How to disable ads?](#disable-ads-android) [android]
 3.  [I hate fullscreen ads!](#hate-ads)
 
 ### 💹 Exchange rates
@@ -23,23 +23,23 @@ Download:
 
 1.  [Why is there no XXX currency?](#no-currency)
 2.  [How to sort currencies in list?](#sort-currencies)
-3.  [How to change currencies in widget? [ios]](#change-widget)
+3.  [How to change currencies in widget?](#change-widget) [ios]
 4.  [How to add more currencies to main screen?](#more-currencies)
 5.  [How to swap currencies and amounts?](#swap)
 
 ### 💎 Premium
 
-1.  [I bought premium but I see ads [ios]](#restore-premium)
-2.  [How to cancel premium subscription? [ios]](#cancel-premium)
-3.  [I don't like subscriptions, I want one-time purchase [ios]](#why-subscription)
-4.  [How to pay for a premium subscription in Russia? [ios]](#premium-russia)
+1.  [I bought premium but I see ads](#restore-premium) [ios]
+2.  [How to cancel premium subscription?](#cancel-premium) [ios]
+3.  [I don't like subscriptions, I want one-time purchase](#why-subscription) [ios]
+4.  [How to pay for a premium subscription in Russia?](#premium-russia) [ios]
 
 ### 📱 Converter
 
 1.  [How to calculate percentage?](#percentage)
 2.  [How to show more decimal places?](#decimal-places)
 3.  [Why are there no charts?](#charts)
-4.  [Hotkeys for keyboard [mac]](#hotkeys)
+4.  [Hotkeys for keyboard](#hotkeys) [mac]
 5.  [Why is your app better than Google converter?](#better-google)
 6.  [App for iOS, Android, macOS, watchOS, Windows](#apps)
 
@@ -47,6 +47,7 @@ Download:
 
 1.  [For investors and advertising agents](#investors)
 2.  [About app](#about)
+3. [Do you have question?](issues/new)
 
 <a name="disable-ads-ios"></a>
 ## How to disable ads? [ios]
@@ -56,7 +57,7 @@ To disable ads you can buy Premium only for `5$ per year`.
 ☕️ Annual subscription for the price of a cup of coffee.
 
 1.  Open app.
-2.  Tap `( : )` button.
+2.  Tap `(:)` button.
 3.  Tap `Settings`.
 4.  Tap `Premium`.
 5.  Tap `Buy`.
@@ -102,35 +103,35 @@ For example, if sources show these exchange rates for `USD-EUR`, then the middle
 
 **Sources**
 
-- 💳 Visa
+💳 Visa
 
-- 💳 Mastercard
+💳 Mastercard
 
-- 💳 Wise
+💳 Wise
 
-- 🇺🇸 New York Stock Exchange
+🇺🇸 New York Stock Exchange
 
-- 🇺🇸 NASDAQ
+🇺🇸 NASDAQ
 
-- 🇪🇺 Euronext
+🇪🇺 Euronext
 
-- 🇬🇧 London Stock Exchange
+🇬🇧 London Stock Exchange
 
-- 🇩🇪 Deutsche Börse
+🇩🇪 Deutsche Börse
 
-- 🇯🇵 Japan Exchange Group
+🇯🇵 Japan Exchange Group
 
-- 🇨🇳 Shanghai Stock Exchange
+🇨🇳 Shanghai Stock Exchange
 
-- 🇭🇰 Hong Kong Stock Exchange
+🇭🇰 Hong Kong Stock Exchange
 
-- 🇸🇦 Tadawul
+🇸🇦 Tadawul
 
-- 🇷🇺 Moscow Exchange
+🇷🇺 Moscow Exchange
 
-- 🪙 Binance
+🪙 Binance
 
-- 🪙 CoinMarketCap
+🪙 CoinMarketCap
 
 <a name="wrong-rates"></a>
 ## Exchange rates are wrong
@@ -144,14 +145,14 @@ The exchange rate at your currency exchange place may be different because they 
 
 To set own rate:
 
-1.  Tap `( : )` button.
+1.  Tap `(:)` button.
 2.  Tap `Own rate`.
 3.  Enter number.
 4.  Tap `Set`.
 
 To remove own rate:
 
-1.  Tap `( : )` button.
+1.  Tap `(:)` button.
 2.  Tap `Own rate`.
 3.  Tap `Remove`.
 
@@ -222,7 +223,7 @@ The `Swap all` function is available since version 3.0
 If you have reinstalled the app or bought a new device, you need to restore your Premium. This does not require any additional payment.
 
 1.  Open app.
-2.  Tap `( : )` button.
+2.  Tap `(:)` button.
 3.  Tap `Settings`.
 4.  Tap `Premium`.
 5.  Tap `Restore`.
@@ -371,19 +372,19 @@ So, the development of this feature may take some time.
 <a name="better-google"></a>
 ## Why is your app better than Google converter?
 
-✅ Offline mode
+✓ Offline mode
 
-✅ All world currencies
+✓ All world currencies
 
-✅ Top 30 cryptocurrencies
+✓ Top 30 cryptocurrencies
 
-✅ 20 exchange rates sources
+✓ 20 exchange rates sources
 
-✅ Rounding with automatic precision
+✓ Rounding with automatic precision
 
-✅ Searching currency by country
+✓ Searching currency by country
 
-✅ Own exchange rates
+✓ Own exchange rates
 
 <a name="apps"></a>
 ## App for iOS, Android, macOS, watchOS, Windows
