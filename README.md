@@ -280,14 +280,14 @@ But you can pay for purchases using the balance of `MTS` and `Beeline`.
 10.  Tap `Done`.
 11.  Now you can remove Russian bank cards from the list.
 
-SIM card requirement
+**SIM card requirement**
 
 1.  `MTS` or `Beeline`.
 2.  The SIM card must be in your name.
 3.  Tariff must support `Mobile payment`.
 4.  Must have spent minumun 150 rubles for communication services.
 
-If you do not have MTS or Beeline.
+**If you do not have MTS or Beeline.**
 
 You can ask a friend who has mts or beeline to buy you a gift card. Instruction for a friend:
 
