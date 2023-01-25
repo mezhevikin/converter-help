@@ -96,7 +96,7 @@ The app gets the currency rates from our server.
 
 Our server, in turn, gets the data from 20 sources and calculates the middle market rate.
 
-`0.915, 0.917, 0.919, `0.919`, 0.919, 0.921, 0.921`
+`0.915, 0.917, 0.919, 0.919, 0.919, 0.921, 0.921`
 
 For example, if sources show these exchange rates for `USD-EUR`, then the middle market rate will be `0.919`.
 
