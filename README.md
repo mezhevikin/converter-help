@@ -11,12 +11,12 @@ Download:
 2.  [How to disable ads? [android]](#disable-ads-android)
 3.  [I hate fullscreen ads!](#hate-ads)
 
-### 💹 Currency rates
+### 💹 Exchange rates
 
-1.  [Where does app get currency rates from?](#source-rates)
-2.  [Currency rates are wrong](#wrong-rates)
-3.  [How to set my own currency rates?](#own-rates)
-4.  [How often does app update currency rates?](#update-rates)
+1.  [Where does app get exchange rates from?](#source-rates)
+2.  [Exchange rates are wrong](#wrong-rates)
+3.  [How to set my own exchange rates?](#own-rates)
+4.  [How often does app update exchange rates?](#update-rates)
 5.  [Can I use app without internet?](#offline)
 
 ### 💰 Currencies
@@ -90,9 +90,9 @@ Money from ads goes towards developing the app and paying for servers. Thanks fo
 3.  Tap `Ad was inappropriate`.
 
 <a name="source-rates"></a>
-## Where does app get currency rates from?
+## Where does app get exchange rates from?
 
-The app gets the currency rates from our server.
+The app gets the exchange rates from our server.
 
 Our server, in turn, gets the data from 20 sources and calculates the middle market rate.
 
@@ -133,14 +133,14 @@ Sources
 - 🪙 CoinMarketCap
 
 <a name="wrong-rates"></a>
-## Currency rates are wrong
+## Exchange rates are wrong
 
 The app gets exchange rates from 20 sources and calculate the middle market rates.
 
 The exchange rate at your currency exchange place may be different because they may have additional fees.
 
 <a name="own-rates"></a>
-## How to set my own currency rates?
+## How to set my own exchange rates?
 
 To set own rate:
 
@@ -158,9 +158,9 @@ To remove own rate:
 The ability to set your own rate is available starting from version `3.0`.
 
 <a name="update-rates"></a>
-## How often does app update currency rates?
+## How often does app update exchange rates?
 
-The app updates the currency rates once per hour.
+The app updates the exchange rates once per hour.
 
 The application can work without internet using the latest downloaded data.
 
@@ -256,8 +256,8 @@ You might need to scroll down to find the `Cancel Subscription` button. If there
 I known that users don't like subscriptions, but unfortunately a one-time purchase is not suitable in this case, because my app has daily expenses.
 
 1.  The app is used by 500,000 users every day, and I need a powerful server to handle all of the traffic.
-2.  The app uses a distributed DNS network to ensure that currency rates load quickly from anywhere in the world.
-3.  The app aggregates currency rates from 20 sources, some of which are paid.
+2.  The app uses a distributed DNS network to ensure that exchange rates load quickly from anywhere in the world.
+3.  The app aggregates exchange rates from 20 sources, some of which are paid.
 
 Subscriptions and ads allow me to focus on developing an amazing product and not worry about how I will pay the bills tomorrow.
 
@@ -383,7 +383,7 @@ So, the development of this feature may take some time.
 
 ✅ Searching currency by country
 
-✅ Own currency rates
+✅ Own exchange rates
 
 <a name="apps"></a>
 ## App for iOS, Android, macOS, watchOS, Windows
