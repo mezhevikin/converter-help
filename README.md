@@ -47,7 +47,7 @@ Download:
 
 1.  [For investors and advertising agents](#investors)
 2.  [About app](#about)
-3. [Do you have question?](issues/new)
+3. [Do you have question? Create issue](https://github.com/mezhevikin/converter-help/issues/new)
 
 <a name="disable-ads-ios"></a>
 ## How to disable ads? [ios]
