@@ -3,7 +3,7 @@
 Download:
 [iOS](https://apps.apple.com/app/id1457309557?platform=iphone) | 
 [Android](https://play.google.com/store/apps/details?id=com.mezhevikin.converter) | 
-[macOS](https://apps.apple.com/app/id1457309557?platform=mac)
+[Mac](https://apps.apple.com/app/id1457309557?platform=mac)
 
 ### 📺 Advertising
 
